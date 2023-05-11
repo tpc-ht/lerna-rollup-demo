@@ -1,5 +1,5 @@
 export function anfn() {
-  console.log("anfn");
+  console.log("1111nfn");
 }
 
 export function anfn1() {
