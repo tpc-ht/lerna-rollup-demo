@@ -32,5 +32,5 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "typescript": "^5.0.4"
   },
-  "gitHead": "35674555db60757ccc0be9188acbc52e505c5696"
+  "gitHead": "f7b9e0315508e51ce6c65b786f4c82725a0920a0"
 }
