@@ -1,11 +1,11 @@
 {
-  "name": "@yuu/utils",
+  "name": "@yuu/components",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "tpc-ht <59469126+tpc-ht@users.noreply.github.com>",
   "homepage": "https://github.com/tpc-ht/lerna-rollup-demo#readme",
   "license": "ISC",
-  "main": "lib/utils.js",
+  "main": "lib/components.js",
   "type": "module",
   "directories": {
     "lib": "lib",
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "build": "rimraf -rf lib esm dist && rollup --config",
-    "test": "node ./__tests__/utils.test.js"
+    "test": "node ./__tests__/components.test.js"
   },
   "bugs": {
     "url": "https://github.com/tpc-ht/lerna-rollup-demo/issues"
