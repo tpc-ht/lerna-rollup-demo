@@ -3,5 +3,5 @@ export function anfn() {
 }
 
 export function anfn1() {
-  console.log("anfn22221");
+  console.log("anfsssn22221");
 }
