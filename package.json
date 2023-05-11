@@ -4,14 +4,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tpc-ht/lerna-rollup-demo.git"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "publish": "lerna publish"
