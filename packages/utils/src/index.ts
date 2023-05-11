@@ -1,7 +1,7 @@
 export function anfn() {
-  console.log("1111222nfn");
+  console.log("1111222222nfn");
 }
 
 export function anfn1() {
-  console.log("anf1sssnsss22221");
+  console.log("anf1sssns333s22221");
 }

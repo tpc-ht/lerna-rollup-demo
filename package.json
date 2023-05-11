@@ -1,6 +1,5 @@
 {
   "name": "zd-yuu",
-  "private": false,
   "workspaces": [
     "packages/*"
   ],
