@@ -32,5 +32,9 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "typescript": "^5.0.4"
   },
-  "gitHead": "8b7d134b013a75a11ee164e2ac4bcded0233dae1"
+  "gitHead": "3df45bfa83447ad499ee842078cd095ddfbf5607",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }

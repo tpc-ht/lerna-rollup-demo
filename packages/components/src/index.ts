@@ -1,3 +1,3 @@
 export function anfnn() {
-  console.log("anssf11sdasnn");
+  console.log("anssf1ss1sdasnn");
 }
